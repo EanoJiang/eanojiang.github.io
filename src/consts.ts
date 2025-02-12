@@ -58,6 +58,13 @@ export const menuItems = [
         svg: "material-symbols:earthquake-rounded",
         target: "_self",
       }, // Life category
+      {
+        id: "Game",
+        text: "Game blogs",
+        href: "/blog/tag/Game",
+        svg: "mdi:controller",
+        target: "_self",
+      }, // Game category
     ],
   }, // Blog page with sub-items
   {
@@ -77,7 +84,7 @@ export const menuItems = [
   {
     id: "contact",
     text: "Contact",
-    href: "mailto:contact.evesunmaple@outlook.com", // Contact email
+    href: "mailto:contact.eanojiang@foxmail.com", // Contact email
     target: "_blank", // Open in a new tab
     svg: "material-symbols:attach-email-outline-rounded",
   },
@@ -86,10 +93,10 @@ export const menuItems = [
 // Social media and contact icons
 export const socialIcons = [
   {
-    href: "https://afdian.net/a/saroprock",
-    ariaLabel: "Support my work",
-    title: "Support my work",
-    svg: "ri:cup-line",
+    href: "https://steamcommunity.com/id/eano/",
+    ariaLabel: "Steam",
+    title: "Steam",
+    svg: "mdi:steam",
   },
   {
     href: "https://github.com/EveSunMaple",
@@ -98,7 +105,7 @@ export const socialIcons = [
     svg: "ri:github-line",
   },
   {
-    href: "https://space.bilibili.com/438392347",
+    href: "https://space.bilibili.com/37630407",
     ariaLabel: "BiliBili",
     title: "BiliBili",
     svg: "ri:bilibili-line",
