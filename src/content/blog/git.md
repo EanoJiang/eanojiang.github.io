@@ -2,7 +2,7 @@
 title: Git
 description: ……
 pubDate: 2 13 2025
-image: /image/image3.jpg
+image: /image/image3.png
 categories:
   - git
 
