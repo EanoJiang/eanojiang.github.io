@@ -1,18 +1,12 @@
-\---
-
-title: git命令
-
+---
+title: Git
 description: ……
-
 pubDate: 2 13 2025
-
 image: /image/image3.jpg
-
 categories:
+  - git
 
- \- git
-
-\---
+---
 
 ### 配置Git
 1.配置本地信息
