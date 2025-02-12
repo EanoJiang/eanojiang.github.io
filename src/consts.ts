@@ -61,7 +61,7 @@ export const menuItems = [
       {
         id: "Game",
         text: "Game blogs",
-        href: "/blog/tag/Game",
+        href: "/blog/categories/Game",
         svg: "mdi:controller",
         target: "_self",
       }, // Game category
