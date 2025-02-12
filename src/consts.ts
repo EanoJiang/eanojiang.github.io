@@ -99,7 +99,7 @@ export const socialIcons = [
     svg: "mdi:steam",
   },
   {
-    href: "https://github.com/EveSunMaple",
+    href: "https://github.com/EanoJiang",
     ariaLabel: "Github",
     title: "Github",
     svg: "ri:github-line",
